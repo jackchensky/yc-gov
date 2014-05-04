@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+/*页面框架布局样式*/
+
+#container{width: 1002px;margin: 0 auto;}
+
+/*Top section*/
+#topbar{height: 30px;background: #eee;margin: 3px 1px;}
+#header{height: 215px;background: #eee;margin: 3px 1px;}
+#banner{height: 145px;background: #ddd;}
+#navbar{height: 35px;background: red;}
+#toolbar{height: 35px;background: #eee;}
+
+/*content*/
+#content{margin: 3px 1px;}
+#main{width: 710px;height: 1000px;background: #fff; margin-right:5px;float: left;}
+#mainA{width: 300px;height: 280px;background: #ccc;margin-right: 5px;float: left}
+#mainB{width: 405px;height: 280px;background: #ccc;float: right;}
+#mainC{width: 706px;height:80px;margin: 5px 2px 5px 2px;background: #ccc;}
+#mainD{width: 300px;height: 630px;background: #ccc;margin-right: 5px;float: left;}
+#mainE{width: 405px;height: 630px;background: #ccc;float: right;}
+#sidebar{width: 285px;height: 1000px;background: #eee; float: right;}
+
+/*footer*/
+#footer{height: 45px;background: #eee;margin: 1px 1px 5px 1px;}
